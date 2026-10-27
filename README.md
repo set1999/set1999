@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @set1999
+- 👋 Hi
 - 👀 I’m interested in ... App development, Web Development, UX and UI
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... Java
 
 <!---
 set1999/set1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
